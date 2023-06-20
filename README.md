@@ -11,15 +11,6 @@
     <li>Toplam gelir,toplam harcama ve kalan paranın gösterildiği alan</li>
     <li>Verilerin localstorage da saklanması</li>
     <li>Ay bittiğinde kullanıcının tüm gelir bilgisi ve gider bilgilerini temizleyebileceği bir buton.</li>
-    <li>
-        Bonus:
-        <ul>
-            <li>Özgün tasarımlar.</li>
-            <li>Ekranda o anki saati ve tarihi gösterebilirsiniz.</li>
-            <li>Update özellği</li>
-            <li>Ve daha birçok özellik</li>
-        </ul>
-    </li>
 </ul>
 
 ![gideruygulaması](giderapp.gif)
